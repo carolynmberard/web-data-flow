@@ -11,8 +11,6 @@ Describe dataflow in a Fullstack application (WOW moment)
 
 ### Diagram
 
-![Web Data Flow](./assets/web-data-flow.png)
-
 The general steps that happen are as follows:
 
 1. Type wikipedia.com into the address bar and press enter
@@ -81,4 +79,4 @@ Since the browser just loads the barebones HTML and reads it line by line, then 
 ## Resources
 _Feel free to PR any useful resources! :)_
 
-* [Sample Slides](https://docs.google.com/presentation/d/1XsvczVcbdkU-h6mu0CtMCN6TUXNZOYOLDBKlAefBO3s/edit#slide=id.ga6126ab518_0_45)(if necessary)
+* [Slides](https://docs.google.com/presentation/d/1XsvczVcbdkU-h6mu0CtMCN6TUXNZOYOLDBKlAefBO3s/edit#slide=id.ga6126ab518_0_45)(if necessary)

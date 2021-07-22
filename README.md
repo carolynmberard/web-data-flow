@@ -80,3 +80,7 @@ Since the browser just loads the barebones HTML and reads it line by line, then 
 _Feel free to PR any useful resources! :)_
 
 * [Slides](https://docs.google.com/presentation/d/1XsvczVcbdkU-h6mu0CtMCN6TUXNZOYOLDBKlAefBO3s/edit#slide=id.ga6126ab518_0_45)
+* [What is DNS?](https://dnsmadeeasy.com/support/what-is-dns/)
+* [DNS Explained](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/domain-name-system-dns)
+* [Intro to TCP/IP](https://www.youtube.com/watch?v=b9HafRqtVWc)
+* [TCP Handshake](https://developer.mozilla.org/en-US/docs/Glossary/TCP_handshake)
